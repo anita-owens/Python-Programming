@@ -1,3 +1,20 @@
 Charlie likes Peter!
 Debra likes Cora!
 Peter likes Bob!
+Charlie likes Debra!
+Peter is happy! 2022-08-24
+Alice is happy! 2022-08-24
+Charlie is happy! 2022-08-24
+Peter likes Charlie! 2022-08-24
+Charlie likes Bob! test2 2022-08-24
+Debra likes Peter! 2022-08-24 20:51:38.431346
+Alice is happy! 2022-08-25 20:38:03.761422
+Bob is happy! 2022-08-27 20:44:00.620132
+Charlie likes Debra! 2022-08-27 20:44:11.433494
+Peter likes Cora! 2022-08-27 20:44:19.390006
+Cora likes Alice! 2022-08-27 20:44:27.539158
+Cora likes Peter! 2022-08-27 20:44:29.802301
+Peter likes Charlie! 2022-08-27 20:44:31.937593
+Charlie likes Alice! 2022-08-27 20:45:03.178956
+Debra likes Peter! 2022-08-27 20:45:43.081293
+Charlie likes Debra! 2022-08-27 20:46:33.979572
