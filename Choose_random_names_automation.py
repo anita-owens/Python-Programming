@@ -34,13 +34,13 @@ dt = datetime.now()
 
 # In[5]:
 
-
+"""
 (one, two) = ChooseTwice(names)
 if one == two:
     print("%s is happy!" % one, dt)
 else:
     print("%s likes %s!" % (one, two), dt)
-
+"""
 
 # In[6]:
 
@@ -58,4 +58,4 @@ with open('/Users/anitaowens/Documents/GitHub/Python-Programming/file.txt','a') 
 
 
 currentDirectory = os.getcwd()
-#print(currentDirectory)
+print("this script has run successfully at {}".format(dt))
