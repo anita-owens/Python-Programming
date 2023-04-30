@@ -22,7 +22,7 @@ def ChooseTwice(items):
 # In[3]:
 
 
-names = ["Alice", "Bob", "Charlie", "Debra", "Peter", "Cora", "Robert", "Violet"]
+names = ["Ethel", "Mary", "Charlie", "Cora", "Robert", "Violet", "Daisy", "Matthew", "Thomas"]
 
 
 # In[4]:
