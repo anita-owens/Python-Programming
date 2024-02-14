@@ -80,8 +80,10 @@ favorite_language
 
 
 def myfunction(number):
-    if number > 100
-        return True
-    return False
+    if number > 100:
+        print('True')
+    else:
+      print('False')
     
-    myfunction(99)
+myfunction(99)
+myfunction(365)
