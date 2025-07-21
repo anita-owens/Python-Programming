@@ -59,3 +59,4 @@ with open('/Users/anitaowens/Documents/GitHub/Python-Programming/file.txt','a') 
 
 currentDirectory = os.getcwd()
 print("this script has run successfully at {}".format(dt))
+
